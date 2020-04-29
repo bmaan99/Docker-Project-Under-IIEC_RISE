@@ -14,7 +14,8 @@ After you have installed the docker you have to start docker services which are 
 * Starting the docker:
   * **For RHEL 8 or CentOS** Use command `systemctl start docker` in your Linux terminal to start Docker Service.
   * **For other Operating Systems** Use `sudo service docker start` in your Linux terminal to start Docker Service.
-  One of the above commands will work according to your operating system.
+
+One of the above commands will work according to your operating system.
   
 ## Downloading required images for the project:
 This is very simple you can directly download from your terminal without going into the browser. You can download it here or docker will download it when you run the docker-compose file
