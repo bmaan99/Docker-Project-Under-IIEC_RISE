@@ -12,8 +12,8 @@ Nextcloud application functionally is similar to Dropbox, Office 365 or Google D
 After you have installed the docker you have to start docker services which are different for every Operating System
 
 * Starting the docker:
-  **For RHEL 8 or CentOS** Use command `systemctl start docker` in your Linux terminal to start Docker Service.
-  **For other Operating Systems** Use `sudo service docker start` in your Linux terminal to start Docker Service.
+  * **For RHEL 8 or CentOS** Use command `systemctl start docker` in your Linux terminal to start Docker Service.
+  * **For other Operating Systems** Use `sudo service docker start` in your Linux terminal to start Docker Service.
   One of the above commands will work according to your operating system.
   
 ## Downloading required images for the project:
